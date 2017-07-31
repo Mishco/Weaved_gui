@@ -1,0 +1,7 @@
+('D:\\PYTHON\\weaved_gui\\demo\\',
+ None,
+ [],
+ 'DATA',
+ [('bulboff.png', 'D:\\PYTHON\\weaved_gui\\demo\\bulboff.png', 'DATA'),
+  ('bulbon.png', 'D:\\PYTHON\\weaved_gui\\demo\\bulbon.png', 'DATA'),
+  ('simple.kv', 'D:\\PYTHON\\weaved_gui\\demo\\simple.kv', 'DATA')])

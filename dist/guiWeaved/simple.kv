@@ -1,0 +1,69 @@
+<SimpleRoot>:
+    orientation: "vertical"
+    padding: root.width * .02, root.height * .02
+    spacing: "10dp"
+
+    # We create the widgets
+    #Label:
+        #id: label_text
+        #text: "0"
+        #font_size: "30dp"
+
+    Image:
+        id: bulb_img
+        source:root.IMG_OFF
+        y: self.parent.y + self.parent.height - 250
+        x: self.parent.x
+        size: 150, 150
+        allow_stretch: True
+    #Label:
+    #    text: "A label"
+
+    BoxLayout:
+        orientation: "horizontal"
+        spacing: "30dp"
+        Button:
+            id: btn_connect
+            text: "Vytvor spojenie"
+            on_release: root.on_btn_create_connection()
+            on_release: bulb_img.source='bulbon.png'
+            on_release: btn_connect.disabled = True
+
+
+
+        #Button:
+        #    text: "Subtract"
+        #    on_release: label_text.text = str(int(label_text.text) - 1)
+    ##############################
+    # Start of second part
+    ##############################
+    TextInput:
+        id: text_input
+        hint_text: "Meno"
+        font_size: "30dp"
+
+    Button:
+        text: "Prihlas ma"
+        on_release: root.on_our_btn_release(text_input.text)
+
+AnchorLayout:
+    anchor_x: 'center'
+    anchor_y: 'center'
+    Button:
+        height: 40
+        width: 100
+        size_hint: (None, None)
+        text: 'Click Me'
+        on_press: app.process_button_click()
+
+<PopupBox>:
+    pop_up_text: _pop_up_text
+    size_hint: .5, .5
+    auto_dismiss: True
+    title: 'Status'
+
+    BoxLayout:
+        orientation: "vertical"
+        Label:
+            id: _pop_up_text
+            text: ''
