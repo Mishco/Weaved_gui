@@ -2,66 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e532f7-7492-448a-be53-c17d5a49e732" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/guiWeaved/setuptools-27.2.0-py3.5.egg/EGG-INFO/SOURCES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/guiWeaved/setuptools-27.2.0-py3.5.egg/EGG-INFO/dependency_links.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/guiWeaved/setuptools-27.2.0-py3.5.egg/EGG-INFO/entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/guiWeaved/setuptools-27.2.0-py3.5.egg/EGG-INFO/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/guiWeaved/warnguiWeaved.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.FLAC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.freetype.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.jpeg.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.mikmod.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.modplug.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.ogg-vorbis.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.png.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.smpeg.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.tiff.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.webp.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.zlib.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isoamsa.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isoamsb.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isoamsc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isoamsn.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isoamso.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isoamsr.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isobox.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isocyr1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isocyr2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isodia.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isogrk1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isogrk2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isogrk3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isogrk4-wide.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isogrk4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isolat1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isolat2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isomfrk-wide.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isomfrk.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isomopf-wide.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isomopf.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isomscr-wide.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isomscr.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isonum.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isopub.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isotech.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/mmlalias.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/mmlextra-wide.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/mmlextra.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/s5defs.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/xhtml1-lat1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/xhtml1-special.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/xhtml1-symbol.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/writers/html4css1/template.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/writers/pep_html/template.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/writers/s5_html/themes/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/httplib2/cacerts.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/lib2to3/Grammar.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/lib2to3/PatternGrammar.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pass.txt" afterPath="$PROJECT_DIR$/pass.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple.kv" afterPath="$PROJECT_DIR$/simple.kv" />
     </list>
     <ignored path="weaved_gui.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,7 +25,7 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1272">
+            <state relative-caret-position="1698">
               <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
               <folding>
                 <element signature="e#24#60#0" expanded="true" />
@@ -566,7 +507,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1272">
+        <state relative-caret-position="1698">
           <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
           <folding>
             <element signature="e#24#60#0" expanded="true" />

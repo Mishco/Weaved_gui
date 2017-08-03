@@ -70,7 +70,7 @@ class SimpleRoot(BoxLayout): # 2
         httplib2.debuglevel = 0
         http = httplib2.Http()
         content_type_header = "application/json"
-        password = input("Password:")
+
         with open('pass.txt', 'r') as myfile:
             tmpData = myfile.read().replace('\n', ' ')
 
