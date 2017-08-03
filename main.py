@@ -1,4 +1,6 @@
 # Third Party Libraries
+import subprocess
+
 from kivy.animation import Animation
 from kivy.app import App
 from kivy.graphics.instructions import Image
@@ -23,6 +25,16 @@ from kivy.app import App
 from kivy.uix.popup import Popup
 from kivy.factory import Factory
 from kivy.clock import Clock, mainthread
+
+# important for network
+import socket
+import nmap  # import nmap.py module
+import sys
+import os
+import shlex
+import subprocess
+
+
 
 apiMethod = "https://"
 apiVersion = "/v22"
@@ -191,12 +203,34 @@ class SimpleRoot(BoxLayout): # 2
         # set text_input to result
         self.text_input.text = data
 
+
+
+
+    def check_network_and_find_rpi(self):
+        # if is connect to local network just
+        # get ip address of rpi
+        no = ""
+
+        # check network and find defice with specific MAC address
+        IP1 = socket.gethostbyname(socket.gethostname())  # local IP adress of your computer
+        IP2 = socket.gethostbyaddr('192.168.1.124')  # IP adress of remote computer
+
+        if 'INTRAKRPI' in IP2:
+            print("I find it")
+
+
+
     def on_btn_create_connection(self):
         # self.getToken()
         # self.proxyConnect(UID,token)
 
         # Open the pop up
         self.show_popup('Vytvaram spojenie...')
+
+        # Find RPi on local network
+        mythread2 = threading.Thread(target=self.check_network_and_find_rpi)
+        mythread2.start()
+
 
         # Call some method that may take a while to run.
         # I'm using a thread to simulate this
@@ -211,10 +245,6 @@ class SimpleRoot(BoxLayout): # 2
         mythread.start()
 
 
-    def check_network_and_find_rpi(self):
-        # if is connect to local network just
-        # get ip address of rpi
-        no = ""
 
 
 class SimpleApp(App):  # 1
