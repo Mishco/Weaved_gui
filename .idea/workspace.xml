@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3e532f7-7492-448a-be53-c17d5a49e732" name="Default" comment="" />
+    <list default="true" id="a3e532f7-7492-448a-be53-c17d5a49e732" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/guiWeaved/setuptools-27.2.0-py3.5.egg/EGG-INFO/SOURCES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/guiWeaved/setuptools-27.2.0-py3.5.egg/EGG-INFO/dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/guiWeaved/setuptools-27.2.0-py3.5.egg/EGG-INFO/entry_points.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/guiWeaved/setuptools-27.2.0-py3.5.egg/EGG-INFO/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/guiWeaved/warnguiWeaved.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.FLAC.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.freetype.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.jpeg.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.mikmod.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.modplug.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.ogg-vorbis.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.png.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.smpeg.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.tiff.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.webp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/LICENSE.zlib.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isoamsa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isoamsb.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isoamsc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isoamsn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isoamso.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isoamsr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isobox.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isocyr1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isocyr2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isodia.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isogrk1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isogrk2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isogrk3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isogrk4-wide.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isogrk4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isolat1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isolat2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isomfrk-wide.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isomfrk.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isomopf-wide.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isomopf.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isomscr-wide.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isomscr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isonum.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isopub.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/isotech.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/mmlalias.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/mmlextra-wide.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/mmlextra.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/s5defs.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/xhtml1-lat1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/xhtml1-special.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/parsers/rst/include/xhtml1-symbol.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/writers/html4css1/template.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/writers/pep_html/template.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/docutils/writers/s5_html/themes/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/httplib2/cacerts.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/lib2to3/Grammar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/guiWeaved/lib2to3/PatternGrammar.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pass.txt" afterPath="$PROJECT_DIR$/pass.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple.kv" afterPath="$PROJECT_DIR$/simple.kv" />
+    </list>
     <ignored path="weaved_gui.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,12 +80,12 @@
     <favorites_list name="weaved_gui" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-109">
-              <caret line="156" column="16" selection-start-line="156" selection-start-column="16" selection-end-line="156" selection-end-column="16" />
+            <state relative-caret-position="-1272">
+              <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
               <folding>
                 <element signature="e#24#60#0" expanded="true" />
               </folding>
@@ -32,10 +93,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pass.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pass.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="guiWeaved.spec" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/guiWeaved.spec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
+            <state relative-caret-position="594">
               <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
               <folding />
             </state>
@@ -45,8 +116,8 @@
       <file leaf-file-name="simple.kv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simple.kv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-590">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="598">
+              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,10 +132,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/guiWeaved.spec" />
+        <option value="$PROJECT_DIR$/simple.kv" />
+        <option value="$PROJECT_DIR$/pass.txt" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
@@ -72,8 +148,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="2418" />
-    <option name="height" value="1331" />
+    <option name="width" value="1938" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -100,7 +176,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -135,7 +211,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -324,25 +400,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="2418" height="1331" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24968368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25300172" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25300172" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -362,9 +438,79 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guiWeaved.spec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/simple.kv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-590">
+        <state relative-caret-position="1166">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guiWeaved.spec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guiWeaved.spec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -372,16 +518,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/guiWeaved.spec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
+        <state relative-caret-position="594">
           <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Anaconda/Lib/site-packages/kivy/uix/popup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="94" column="6" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Anaconda/Lib/site-packages/kivy/uix/modalview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="165" column="8" selection-start-line="165" selection-start-column="8" selection-end-line="165" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/simple.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pass.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-109">
-          <caret line="156" column="16" selection-start-line="156" selection-start-column="16" selection-end-line="156" selection-end-column="16" />
+        <state relative-caret-position="-1272">
+          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
           <folding>
             <element signature="e#24#60#0" expanded="true" />
           </folding>

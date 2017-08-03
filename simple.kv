@@ -2,12 +2,13 @@
     orientation: "vertical"
     padding: root.width * .02, root.height * .02
     spacing: "10dp"
+    text_input: text_box
 
     # We create the widgets
-    #Label:
-        #id: label_text
-        #text: "0"
-        #font_size: "30dp"
+    Label:
+        id: label_text
+        text: "Aplikacia pre pripojenie k NAS Rpi"
+        font_size: "15dp"
 
     Image:
         id: bulb_img
@@ -28,7 +29,12 @@
             on_release: root.on_btn_create_connection()
             on_release: bulb_img.source='bulbon.png'
             on_release: btn_connect.disabled = True
-
+            on_release: btn_ssh.disabled = False
+        Button:
+            id: btn_ssh
+            text: "Ziskaj SSH"
+            disabled: False
+            on_release: root.on_btn_get_ssh_tunnel()
 
 
         #Button:
@@ -38,13 +44,13 @@
     # Start of second part
     ##############################
     TextInput:
-        id: text_input
+        id: text_box
         hint_text: "Meno"
         font_size: "30dp"
 
     Button:
         text: "Prihlas ma"
-        on_release: root.on_our_btn_release(text_input.text)
+        on_release: root.on_our_btn_release(text_box.text)
 
 AnchorLayout:
     anchor_x: 'center'
