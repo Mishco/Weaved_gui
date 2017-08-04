@@ -136,12 +136,12 @@ class SimpleRoot(BoxLayout): # 2
         # Once the long running task is done, close the pop up.
         self.pop_up.dismiss()
 
-    def proxyConnect(self):
+    def proxyConnect(self, UID):
         httplib2.debuglevel = 0
         http = httplib2.Http()
         content_type_header = "application/json"
         data = ""
-        UID = UID2
+
         try:
             # this is equivalent to "whatismyip.com"
             my_ip = urlopen('http://ip.42.pl/raw').read()
@@ -217,10 +217,9 @@ class SimpleRoot(BoxLayout): # 2
         IP2 = socket.gethostbyaddr('192.168.1.124')  # IP adress of remote computer
 
         if 'INTRAKRPI' in IP2:
-            print("INF> I find it")
+            print("INF> I find device on local network")
             self.localDevice = True
             self.pop_up.dismiss()
-
             self.text_input.text = 'ssh pi@192.168.1.124'
 
 
@@ -249,10 +248,22 @@ class SimpleRoot(BoxLayout): # 2
         # getting ssh path
         self.show_popup('Ziskavam SSH...')
 
-        mythread = threading.Thread(target=self.proxyConnect)
-        mythread.start()
+        if(self.localDevice == False):
+            mythread1 = threading.Thread(target=self.proxyConnect, args=(UID))
+            mythread1.start()
+        else:
+            self.pop_up.dismiss()
 
+    def on_btn_get_web_page(self):
+        # open web page
+        self.show_popup('Otvaram stranku...')
 
+        if(self.localDevice == False):
+            mythread2 = threading.Thread(target=self.proxyConnect, args=['80:00:00:05:46:01:B3:E6'])
+            mythread2.start()
+        else:
+            webbrowser.open('192.168.1.124/index.php', new=2)  # open page in browser
+            self.pop_up.dismiss()
 
 
 class SimpleApp(App):  # 1
