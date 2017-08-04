@@ -60,6 +60,7 @@ class SimpleRoot(BoxLayout): # 2
     bulb_img = ObjectProperty(None)
     text_input = ObjectProperty()
     token = ""
+    localDevice = False
 
     def show_popup(self, text):
         self.pop_up = Factory.PopupBox()
@@ -216,8 +217,11 @@ class SimpleRoot(BoxLayout): # 2
         IP2 = socket.gethostbyaddr('192.168.1.124')  # IP adress of remote computer
 
         if 'INTRAKRPI' in IP2:
-            print("I find it")
+            print("INF> I find it")
+            self.localDevice = True
+            self.pop_up.dismiss()
 
+            self.text_input.text = 'ssh pi@192.168.1.124'
 
 
     def on_btn_create_connection(self):
@@ -231,11 +235,15 @@ class SimpleRoot(BoxLayout): # 2
         mythread2 = threading.Thread(target=self.check_network_and_find_rpi)
         mythread2.start()
 
+        # Wait till finish execution
+        mythread2.join()
 
         # Call some method that may take a while to run.
         # I'm using a thread to simulate this
-        mythread = threading.Thread(target=self.getToken)
-        mythread.start()
+        if(self.localDevice == False):
+            mythread = threading.Thread(target=self.getToken)
+            mythread.start()
+
 
     def on_btn_get_ssh_tunnel(self):
         # getting ssh path
