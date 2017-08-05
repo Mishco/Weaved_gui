@@ -1,14 +1,26 @@
 ## Weaved with GUI
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+Application with GUI developed in **Kivy** framework https://kivy.org/. This app create connection to server on local network. Created tunnel is ssh or www.
 
 ## Code Example
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+Using Kivy and weaved. Kivy is python framework. Weaved https://www.remot3.it/web/remot3-it-is-the-new-weaved.html is a service than create tunnel between device and your actual network.
+
+```
+from kivy.app import App
+from kivy.uix.button import Button
+
+class TestApp(App):
+    def build(self):
+        return Button(text='Hello World')
+
+TestApp().run()
+```
+
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+Motivation was VPN problem on local network and DNS free services.
 
 ## Installation
 
@@ -28,4 +40,5 @@ Let people know how they can dive into the project, include important links to t
 
 ## License
 
-MIT License
+Free License
+
